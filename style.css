@@ -1,5 +1,19 @@
 /* CSS files add styling rules to your content */
 
 h1 {
-  color: green;
+   
+}
+
+body{
+  background:
+    url("https://www.trafalgar.com/real-word/wp-content/uploads/sites/3/2019/11/First-time-in-Tokyo.jpg")
+}
+
+.links{
+  display:flex ;
+  justify-content:space-around;
+}
+
+img{
+  height:100px
 }
